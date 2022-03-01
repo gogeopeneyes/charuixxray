@@ -1,23 +1,23 @@
 {
-    "name": "gayu",
-    "description": "gayu",
-    "keywords": ["gayu"],
+    "name": "yessray",
+    "description": "yesray",
+    "keywords": ["yesray"],
     "env": {
         "AUUID": {
             "description": "打开https://www.uuidgenerator.net这个网站生成一个UUID，然后复制粘贴到下面的方框当中。",
             "value": ""
         },
         "CADDYIndexPage": {
-            "description": "CADDY伪装站点，参考：https://github.com/gogeopeneyes/charuixxray/blob/master/etc/CADDYIndexPage.md",
+            "description": "CADDY伪装站点，参考：https://github.com/gogeopeneyes/ithinksoyes/blob/master/etc/CADDYIndexPage.md",
             "value": "https://github.com/Externalizable/bongo.cat/archive/master.zip"
         },
         "CONFIGCADDY": {
             "description": "",
-            "value": "https://raw.githubusercontent.com/gogeopeneyes/charuixxray/main/etc/Caddyfile"
+            "value": "https://raw.githubusercontent.com/gogeopeneyes/ithinksoyes/main/etc/Caddyfile"
         },
         "CONFIGXRAY": {
             "description": "请勿修改",
-            "value": "https://raw.githubusercontent.com/gogeopeneyes/charuixxray/main/etc/xray.json"
+            "value": "https://raw.githubusercontent.com/gogeopeneyes/ithinksoyes/main/etc/xray.json"
         },
         "ParameterSSENCYPT": {
             "description": "SS加密方式，不要改！",
@@ -25,10 +25,10 @@
         },
         "StoreFiles": {
             "description": "不要修改",
-            "value": "https://raw.githubusercontent.com/gogeopeneyes/charuixxray/main/etc/StoreFiles"
+            "value": "https://raw.githubusercontent.com/gogeopeneyes/ithinksoyes/main/etc/StoreFiles"
         }
     },
-    "website": "https://github.com/gogeopeneyes/charuixxray",
-    "repository": "https://github.com/gogeopeneyes/charuixxray",
+    "website": "https://github.com/gogeopeneyes/ithinksoyes",
+    "repository": "https://github.com/gogeopeneyes/ithinksoyes",
     "stack": "container"
 }
