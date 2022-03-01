@@ -1,6 +1,6 @@
 xray项目
 
-[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://dashboard.heroku.com/new?template=https://github.com/gogeopeneyes/charuixxray.git) 
+[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://dashboard.heroku.com/new?template=https://github.com/gogeopeneyes/ithinksoyes.git) 
 
 ★代理协议【类型】：vless 或 vmess
 
