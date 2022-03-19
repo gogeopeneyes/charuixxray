@@ -9,7 +9,7 @@
         },
         "CADDYIndexPage": {
             "description": "CADDY伪装站点，参考：https://github.com/gogeopeneyes/ithinksoyes/blob/master/etc/CADDYIndexPage.md",
-            "value": "https://github.com/Externalizable/bongo.cat/archive/master.zip"
+            "value": "https://raw.githubusercontent.com/gogeopeneyes/ithinksoyes/main/mikutap-master.zip"
         },
         "CONFIGCADDY": {
             "description": "",
